@@ -1,0 +1,51 @@
+{
+    "skills": [{
+            "id": 0,
+            "skillName": "HTML",
+            "amount": "100"
+        },
+        {
+            "id": 1,
+            "skillName": "CSS",
+            "amount": "90"
+        },
+        {
+            "id": 2,
+            "skillName": "Bootstrap",
+            "amount": "90"
+        },
+        {
+            "id": 3,
+            "skillName": "Tailwind",
+            "amount": "65"
+        },
+        { "id": 4, "skillName": "Javascript", "amount": "70" },
+        {
+            "id": 5,
+            "skillName": "React js",
+            "amount": "70"
+        },
+        {
+            "id": 6,
+            "skillName": "Express js",
+            "amount": "75"
+        },
+        { "id": 7, "skillName": "Node js", "amount": "70" },
+        { "id": 8, "skillName": "MongoDB", "amount": "70" },
+        {
+            "id": 9,
+            "skillName": "Next js",
+            "amount": "75"
+        },
+        {
+            "id": 10,
+            "skillName": "Restfull APIs",
+            "amount": "80"
+        },
+        {
+            "id": 11,
+            "skillName": "CRUD",
+            "amount": "75"
+        }
+    ]
+}
